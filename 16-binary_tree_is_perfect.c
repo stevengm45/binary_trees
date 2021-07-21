@@ -3,7 +3,7 @@
 #include "15-binary_tree_is_full.c"
 
 /**
- * binary_tree_height - measures the height of a binary tree
+ * binary_tree_is_perfect -  checks if a binary tree is perfect
  * @tree: Pointer to the root node of the tree to measure the leaves.
  * Return: Leaves.
  **/
